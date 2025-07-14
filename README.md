@@ -1,16 +1,92 @@
-# sugapulse
+# 📱 SugaPulse
 
-A new Flutter project.
+**SugaPulse** is a smart health-tracking app designed to help users monitor their blood sugar and blood pressure levels with ease. It provides real-time insights through clean charts, motivational streak tracking, and personalized health progress — all wrapped in a modern, intuitive Flutter UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Secure Firebase Authentication**
+- 📊 **Track Blood Sugar and Blood Pressure**
+- 📈 **Visual Insights with Dynamic Charts**
+- ⏳ **Streak & Score System** to motivate daily logging
+- 🌗 **Dark & Light Theme Support**
+- 🌍 **Multi-language Support** (English and Hindi)
+- ☁️ **Real-time Syncing with Firebase**
+- 🩸 **HbA1c Category Estimation**
+- 📱 **Responsive UI** for all devices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (Cross-platform UI toolkit)
+- **Firebase** (Authentication + Firestore + Realtime DB)
+- **fl_chart** (for interactive data visualization)
+- **Provider** (for state management)
+- **SharedPreferences** (for local storage)
+- **Dart**
+
+---
+
+## 🚀 Getting Started
+
+To run the app locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aryanmalhotra112003/SugaPulse.git
+   cd SugaPulse
+````
+
+2. Get the Flutter dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+> 💡 Make sure you have Flutter set up and configured with an emulator or real device.
+
+---
+
+## 📸 Screenshots
+
+| Home Screen                   | Sugar Analytics                       | BP Analytics                    |
+| ----------------------------- | ------------------------------------- | ------------------------------- |
+| ![Home](screenshots/home.png) | ![Sugar](screenshots/sugar_chart.png) | ![BP](screenshots/bp_chart.png) |
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+© 2025 **Aryan Malhotra** — All rights reserved. Unauthorized use or redistribution of this code without proper attribution is prohibited.
+
+````
+
+---
+
+### 📝 What to Do Next:
+
+1. Save this as your `README.md` in the root of your project.
+2. Create a `screenshots/` folder in your project.
+3. Add images named `home.png`, `sugar_chart.png`, `bp_chart.png` there (you can use emulator screenshots).
+4. Commit the README and push:
+```bash
+git add README.md
+git commit -m "Add professional README with screenshots and license"
+git push
+````
+
+---
+
