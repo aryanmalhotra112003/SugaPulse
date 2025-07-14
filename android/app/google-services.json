@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418914681671",
+    "project_id": "sugapulse",
+    "storage_bucket": "sugapulse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418914681671:android:6d76f01012592099954262",
+        "android_client_info": {
+          "package_name": "com.example.sugapulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zvASBfPXfhVVev70K5gYwMCY7kjL_7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
