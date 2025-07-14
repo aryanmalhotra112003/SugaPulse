@@ -24,7 +24,6 @@
 - **Firebase** (Authentication + Firestore + Realtime DB)
 - **fl_chart** (for interactive data visualization)
 - **Provider** (for state management)
-- **SharedPreferences** (for local storage)
 - **Dart**
 
 ---
