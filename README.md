@@ -51,7 +51,8 @@ To run the app locally:
    ```
 
 > 💡 Make sure you have Flutter set up and configured with an emulator or real device.
-
+> ⚠️ To run this app, create your own `google-services.json` from Firebase Console and place it inside `android/app/`.
+> Use the structure from `google-services.example.json`.
 ---
 
 ## 📄 License
