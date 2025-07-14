@@ -66,18 +66,3 @@ This project is licensed under the [MIT License](LICENSE).
 ````
 
 ---
-
-### 📝 What to Do Next:
-
-1. Save this as your `README.md` in the root of your project.
-2. Create a `screenshots/` folder in your project.
-3. Add images named `home.png`, `sugar_chart.png`, `bp_chart.png` there (you can use emulator screenshots).
-4. Commit the README and push:
-```bash
-git add README.md
-git commit -m "Add professional README with screenshots and license"
-git push
-````
-
----
-
