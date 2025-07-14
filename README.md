@@ -55,15 +55,6 @@ To run the app locally:
 
 ---
 
-## 📸 Screenshots
-
-| Home Screen                   | Sugar Analytics                       | BP Analytics                    |
-| ----------------------------- | ------------------------------------- | ------------------------------- |
-| ![Home](screenshots/home.png) | ![Sugar](screenshots/sugar_chart.png) | ![BP](screenshots/bp_chart.png) |
-
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
